@@ -462,7 +462,12 @@ La Cooperativa promueve una campaña contra el fraude digital con recomendacione
 ## Contactos y sucursales
 **URL:** [https://www.universitaria.coop/sucursales](https://www.universitaria.coop/sucursales)
 
-Email: universitaria@universitaria.coop · Teléfono fija: (021) 617 0000 · Línea gratuita: 0800 11 4100 · WhatsApp MasterCard: +595 21 249 4000 · Asistencia 24 hs (MasterCard): +595 21 249 4350 - Asunción – Casa Matriz: 25 de Mayo 476 c/ México, Lun–Vie 08:00–15:30, Sáb 08:00–11:00
+Email: universitaria@universitaria.coop 
+· Teléfono fija: (021) 617 0000 
+· Línea gratuita: 0800 11 4100 
+· WhatsApp MasterCard: +595 21 249 4000 
+· Asistencia 24 hs (MasterCard): +595 21 249 4350 
+Asunción – Casa Matriz: 25 de Mayo 476 c/ México, Lun–Vie 08:00–15:30, Sáb 08:00–11:00
 Los Laureles: Avda. Eusebio Ayala esq. Tte. Ángel Espinoza, Lun–Vie 09:00–16:30, Sáb 09:00–14:00
 Encarnación: Juan León Mallorquín entre Cerro Corá y Monseñor Wiessen, Lun–Vie 08:00–15:30, Sáb 08:00–11:00
 Villa Morra: Av. San Martín 343 c/ Andrade, Lun–Vie 08:00–15:30, Sáb 08:00–11:00
@@ -471,4 +476,9 @@ Pedro Juan Caballero (Shopping China): Ruta V, casi Av. Internacional, Lun–Vie
 **Tags:** sucursales, horarios, contacto, email, telefonos
 
 ---
+
+## Sitio web y home banking
+**URL:** [https://cu24hs.universitaria.coop/#](https://cu24hs.universitaria.coop/#)
+En este enlace puede acceder al home banking de la cooperativa. 
+Para habilitar este servicio debe acudir a Casa Matriz o a una de las sucursales de la Cooperativa, el mismo es sin costo. Recuerde que la Clave es exclusivamente para su uso personal, y que la misma sustituye a su firma, siendo de su entera responsabilidad el uso de la misma. No la divulgue. Tenga presente que la UNIVERSITARIA Ltda. nunca solicitará vía telefónica o por email datos personales, número de cuenta, número de tarjeta de crédito, contraseñas o cualquier otra información confidencial. Proteja la información de sus cuentas, una vez que haya finalizado sus operaciones, cierre el navegador.
 
