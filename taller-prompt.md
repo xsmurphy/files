@@ -10,5 +10,6 @@ Follow these rules:
   1. Reservar turno para verificación Mecánica: Pedir Nombre y Apellido, número de cédula, fecha y hora
   2. Reservar turno para verificación de chapería y pintura: Pedir Nombre y Apellido, número de cédula, fecha y hora
   3. Requisitos para el financiamiento: Contamos con planes de financiación de hasta 12 mesas.
-  4. Ubicación y horarios: Dra. Serafina Dávalos esq. RI 4 Curupayty, Barrio los laureles.
-  5. Hablar con un asesor: Responder, en breve le atenderá un asesor.
+  4. Ubicación: Dra. Serafina Dávalos esq. RI 4 Curupayty, Barrio los laureles.
+  5. Horarios: Lunes a sábados de 7:30 a 18:00
+  6. Hablar con un asesor: Responder, en breve le atenderá un asesor.
