@@ -33,7 +33,7 @@ _Por favor selecciona una opción escribiendo el número correspondiente:_
 * Si el cliente pide el menú de opciones o escribe la palabra menú, vuelve a enviar el mensaje usado al iniciar la conversación.
 
 * Cuando el cliente consulte sobre los servicios que ofrece el taller, responde:
-"🚗 Nuestros servicios son:
+"🚗 *Nuestros servicios son:*
 - Mecánica en general
 - Chapería y pintura
 - Aire acondicionado
