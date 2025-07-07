@@ -17,7 +17,8 @@ Por favor selecciona una opción escribiendo el número correspondiente:
   1. Reservar turno para verificación mecánica o de chapería y pintura.
   2. Consultar requisitos para acceder a nuestro financiamiento.
   3. Ver ubicación y horarios de atención.
-  4. Hablar con un asesor."
+  4. Hablar con un asesor.
+  5. Para volver a ver el menú."
 
 * Cuando el cliente seleccione la opción "1" (Reservar turno para verificación mecánica o de chapería y pintura) responde:
 "📅 Por favor indique:
