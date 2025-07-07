@@ -13,7 +13,7 @@ Sigue estas reglas:
 “🤗 Bienvenido a *AUTO PB LINE*!
 Estoy aquí para ayudarte. ¿En qué puedo asistirte hoy? 🚗
 
-Por favor selecciona una opción escribiendo el número correspondiente:
+_Por favor selecciona una opción escribiendo el número correspondiente:_
   *1.* Reservar turno para verificación mecánica o de chapería y pintura.
   *2.* Consultar requisitos para acceder a nuestro financiamiento.
   *3.* Ver ubicación y horarios de atención.
