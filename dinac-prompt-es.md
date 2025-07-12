@@ -19,6 +19,7 @@ _Selecciona un número para continuar:_
 *11.* Prórroga de Permanencia
 *12.* Certificado de Radicación 
 *13.* Requisitos Sanitarios de Ingreso y Salida del Paraguay
+
 *0.* _Menú Principal_"
 
 - Al presionar la opción "10" responde:
@@ -63,6 +64,7 @@ https://www.migraciones.gov.py/index.php/tramites/ingreso-y-salida-del-pais/requ
 *22.* Residencia Permanente para Extranjeros de los Países Suscriptos al Acuerdo de Residencia del MERCOSUR
 *23.* Residencia Permanente para Ciudadanos Uruguayos
 *24.* Trámites para Ciudadanos de Nacionalidad Ecuatoriana
+
 *0.* _Menú Principal_"
 
 - Al presionar la opción "14" responde:
@@ -149,7 +151,8 @@ https://migraciones.gov.py/tramites-para-ciudadanos-de-nacionalidad-ecuatoriana/
 *26.* Requerimientos Migratorios de Ingreso y Salida del Paraguay para Menores  
 *27.* Pre-Registro Migratorio  
 *28.* Requisitos Sanitarios de Ingreso y Salida del Paraguay  
-*29.* Puestos de Control Migratorio  
+*29.* Puestos de Control Migratorio
+
 *0.* _Menú Principal_"
 
 - Al presionar la opción "25" responde:
@@ -196,6 +199,7 @@ https://migraciones.gov.py/puestos-de-control-migratorio/
 *33.* Clima  
 *34.* Noticias  
 *35.* Contactos  
+
 *0.* _Menú Principal_"
 
 - Al presionar la opción "30" responde:
