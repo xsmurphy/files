@@ -2,7 +2,7 @@
 "*¿Cómo puedo ayudarte?*
 _Selecciona un número para continuar:_
 
-*6.* Tramites en Linea
+*6.* Trámites en Línea
 *7.* Residencia
 *8.* Entrada y Salida del País
 *9.* Otros
@@ -10,7 +10,7 @@ _Selecciona un número para continuar:_
 *5.* Lista de Compañías Aéreas
 *36.* Información Turistica
 
-*Idioma* _Menú de idiomas_"
+*Idioma.* _Menú de idiomas_"
 
 - Al presionar la opción **6** responde:
 "*Tramites en Linea*
