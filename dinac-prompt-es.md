@@ -1,5 +1,5 @@
 **Menú principal:**
-"*Cómo puedo ayudarte.*
+"*¿Cómo puedo ayudarte?*
 _Selecciona un número para continuar:_
 
 *6.* Tramites en Linea
