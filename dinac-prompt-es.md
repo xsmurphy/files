@@ -1,4 +1,4 @@
-**Menú principal:**
+- Responde esto para el **Menú principal:**
 "*¿Cómo puedo ayudarte?*
 _Selecciona un número para continuar:_
 
