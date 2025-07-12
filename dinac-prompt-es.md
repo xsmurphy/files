@@ -6,9 +6,9 @@ _Selecciona un número para continuar:_
 *7.* Residencia
 *8.* Entrada y Salida del País
 *9.* Otros
-*3.* Tarifa de Estacionamiento del AISP
+*3.* Tarífa de Estacionamiento del AISP
 *5.* Lista de Compañías Aéreas
-*36.* Información Turistica
+*36.* Información Turística
 
 *Idioma.* _Menú de idiomas_"
 
