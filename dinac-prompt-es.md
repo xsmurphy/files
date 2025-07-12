@@ -9,7 +9,8 @@ _Selecciona un número para continuar:_
 *3.* Tarifa de Estacionamiento del AISP
 *5.* Lista de Compañías Aéreas
 *36.* Información Turistica
-*0.* _Menú Principal_"
+
+*Idioma* _Menú de idiomas_"
 
 - Al presionar la opción "6" responde:
 "*Tramites en Linea*
