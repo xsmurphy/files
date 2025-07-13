@@ -6,7 +6,7 @@ _Select a number to continue:_
 *7.* Residence
 *8.* Entry and Exit of the Country
 *9.* Others
-*3.* AISP Parking Rate
+*37.* AISP Parking Rate
 *5.* List of Airlines
 *36.* Tourist Information
 
@@ -244,7 +244,7 @@ https://www.dinac.gov.py/v3/index.php/home/contactos
 
 *0.* _Main Menu_"
 
-- When selecting option **3**, respond:
+- When selecting option **37**, respond:
 "*AISP Parking Rate*
 
 https://www.dinac.gov.py/v3/index.php/component/k2/item/1978-resolucion-n-947-2020-por-la-cual-se-actualizan-las-tarifas-de-acceso-y-estacionamiento
