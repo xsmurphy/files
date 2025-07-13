@@ -10,7 +10,7 @@ _Selecciona un número para continuar:_
 *5.* Lista de Compañías Aéreas
 *36.* Información Turística
 
-Escribe *Idioma* para ver el _Menú de idiomas_"
+Escribe *Idioma* para cambiar de idioma"
 
 - Al presionar la opción **6** responde:
 "*Tramites en Linea*
