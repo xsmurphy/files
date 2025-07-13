@@ -10,7 +10,7 @@ _Select a number to continue:_
 *5.* List of Airlines
 *36.* Tourist Information
 
-*Language* _for language menu_"
+Write *Language* to switch language"
 
 - When selecting option **6**, respond:
 "*Online Procedures*
