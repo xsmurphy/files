@@ -6,11 +6,11 @@ _Selecione um número para continuar:_
 *7.* Residência
 *8.* Entrada e Saída do País
 *9.* Outros
-*3.* Tarifa de Estacionamento do AISP
+*37.* Tarifa de Estacionamento do AISP
 *5.* Lista de Companhias Aéreas
 *36.* Informações Turísticas
 
-*Idioma.* _Menu de idiomas_"
+Escreva *Idioma* para mudar de idioma.
 
 - Ao pressionar a opção **6** responda:
 "*Trâmites Online*
@@ -244,7 +244,7 @@ https://www.dinac.gov.py/v3/index.php/home/contactos
 
 *0.* _Menú Principal_"
 
-- Ao pressionar a opção **3** responda:
+- Ao pressionar a opção **37** responda:
 "*Tarifa de Estacionamento AISP*
 
 https://www.dinac.gov.py/v3/index.php/component/k2/item/1978-resolucion-n-947-2020-por-la-cual-se-actualizan-las-tarifas-de-acceso-y-estacionamiento
