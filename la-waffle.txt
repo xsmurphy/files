@@ -143,7 +143,7 @@ Cuando el cliente quiera saber la ubicación, presione la opción "5" del saludo
 > * Sábados: 9:00 a 21:00
 > * Domingos: 14:00 a 21:00
 
-Luego utiliza el tool `send-map`
+- Luego utiliza el tool `send-map`
 
 ## 9. Menu y productos
 Cuando el cliente quiera ver el menú, presiona el "2" o quiera ver más productos usa el tool `send-menu` y responde:
