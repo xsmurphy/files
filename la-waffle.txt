@@ -23,7 +23,7 @@ Tu objetivo es ayudar al cliente con pedidos y consultas.
 
 ## 3. Conversación inicial
 Cuando el cliente inicia la conversación, responde exactamente:
-> "Hola *{{ $node['object-builder'].json['customer-nickname'] }}*! Bienvenido/a a *La Wafflería* 🍕  
+> "Hola `customer_nickname`! Bienvenido/a a *La Wafflería* 🍕  
 > _Seleccioná una opción para continuar_  
 >  
 > *1.* Armá tu waffle  
