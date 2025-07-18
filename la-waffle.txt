@@ -146,4 +146,8 @@ Cuando el cliente quiera saber la ubicación, presione la opción "5" del saludo
 Luego utiliza el tool `send-map`
 
 ## 9. Inserción en sistema
+Cuando el cliente quiera ver el menú o quiera ver más productos usa el tool `send-menu` y responde:
+> Aquí tienes el menú
+
+## 10. Inserción en sistema
 - Al confirmar la orden, insertala usando el tool `add_order`.
