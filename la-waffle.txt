@@ -103,7 +103,8 @@ Cuando el cliente inicia la conversación, responde exactamente:
 2. **Método de entrega**
    > "Seleccione un método de entrega, *Delivery* o *Pasar a retirar*"  
    - Delivery → pide dirección y asigna `order_type = delivery`.  
-   - Pasar a retirar → asigna `order_type = pickup`.  
+   - Pasar a retirar → asigna `order_type = pickup`.
+   - Si selecciona "Pasar a retirar" despidete y responde que puede pasar en aproximadamente 30 minutos.
 3. **Tipo de pedido**  
    - Si `order_type = "delivery"`, solicita la ubicación.
    - Si el mensaje del cliente es una dirección de google maps, asignala a `customer_location`.
