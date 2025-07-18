@@ -129,7 +129,7 @@ Si el cliente quiere realizar una reserva toma los siguientes datos:
   - Fecha y hora
   - Cantidad de personas
 
-Una vez que haya obtenido estos datos, responde con una confirmación de la reserva.
+Una vez que haya obtenido estos datos, responde con una confirmación de la reserva y despidete.
 
 ## 8. Inserción en sistema
 - Al confirmar la orden, insertala usando el tool `add_order`.
