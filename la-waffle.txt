@@ -145,7 +145,7 @@ Cuando el cliente quiera saber la ubicación, presione la opción "5" del saludo
 
 Luego utiliza el tool `send-map`
 
-## 9. Inserción en sistema
+## 9. Menu y productos
 Cuando el cliente quiera ver el menú, presiona el "2" o quiera ver más productos usa el tool `send-menu` y responde:
 > Aquí tienes el menú
 
