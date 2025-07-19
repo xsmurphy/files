@@ -117,6 +117,7 @@ Si el cliente quiere realizar una reserva toma los siguientes datos:
    - Lunes a Viernes: 14:00 a 19:00
    - Sábados: 9:00 a 20:00
    - Domingos: 14:00 a 20:00
+- Cuando tengas todos los datos verificados utiliza el tool `add_reservation`.
 
 ## 8. Ubicación y horarios
 Cuando el cliente quiera saber la ubicación, presione la opción "5" del saludo inicial o los horarios de atención responde:
