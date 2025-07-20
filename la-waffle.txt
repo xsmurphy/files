@@ -36,7 +36,7 @@ Cuando el cliente inicia la conversación, responde exactamente:
 ---
 
 ## 4. Hacer un pedido (Opción 1)
-- Envia la siguiente imagen como base64 'https://drive.google.com/uc?export=download&id=1yuOs6liDdRUkPFaY06_BCEJOL5xCAObA'
+- Responde con la siguiente imagen como base64 'https://drive.google.com/uc?export=download&id=1yuOs6liDdRUkPFaY06_BCEJOL5xCAObA'
 - Espera a que el cliente envíe los productos que quiere pedir.
 - Una vez que responda con los productos deseados preguntá si el pedido es para delivery o para pasar a retirar.
    - Para "Delivery" solicita:
