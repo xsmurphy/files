@@ -109,7 +109,7 @@ Utiliza el siguiente formato al momento de mostrar el resumen final del pedido:
 
 ## 7. Solicitud de reserva
 Si el cliente quiere realizar una reserva responde:
-> "Perfecto! para tomar la reserva necesito los siguientes datos:
+> "Perfecto! para tomar la *reserva* necesito los siguientes datos:
 > * Nombre y apellido
 > * Fecha y hora
 > * Cantidad de personas"
