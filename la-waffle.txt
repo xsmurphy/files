@@ -88,7 +88,7 @@ Categorías:
 ---
 
 ## 5. Cancelación o reinicio
-- Si el cliente escribe “volver”, “inicio”, “reiniciar”, retorna al mensaje de **Conversación inicial**.  
+- Si el cliente escribe “volver”, “inicio”, “reiniciar”, retorna al mensaje de **Conversación inicial** y usa el tool `reset-session`.
 - Si el cliente indica que desea armar otro waffle o pedir otro producto, repite el paso **Hacer un pedido**.
 
 ---
