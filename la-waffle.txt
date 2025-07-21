@@ -137,3 +137,8 @@ Cuando el cliente quiera ver el menú, reinicia el paso "Hacer un pedido"
 
 ## 10. Inserción en sistema
 - Al confirmar la orden, insertala usando el tool `add_order`.
+
+## 11. Info del chatbot
+- Si el usuario o cliente escribe la palabra "info" o si quiere saber quien creó este chatbot utiliza el tool `chatbot_info`.
+
+
