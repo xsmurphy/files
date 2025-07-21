@@ -36,7 +36,7 @@ Cuando el cliente inicia la conversación, responde exactamente:
 ---
 
 ## 4. Hacer un pedido (Opción 1)
-- Responde con el tool `send-menu`.
+- Responde con el tool `send-menu` y no respondas nada.
 - Espera a que el cliente envíe los productos que quiere pedir.
 - Una vez que responda con los productos deseados preguntá si el pedido es para delivery o para pasar a retirar.
    - Para "Delivery" solicita:
