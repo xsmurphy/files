@@ -52,7 +52,7 @@ Cuando el cliente inicia la conversación, responde exactamente:
    > Razon social (opcional)
    > RUC (opcional)
 
-- La ubicación GPS llegará como un link de google maps con el siguiente formato de ejemplo `https://www.google.com/maps/search/?api=1&query=LATITUDE,LONGITUDE`
+- Utiliza `customer_location` como ubicación del cliente o también puede ser un link a google maps.
 - Luego de obtener todos los datos, muestra un resumen completo del pedido y solicita la confirmación.
 - Una vez confirmado, si el pedido es para pasar a buscar, comunica que le avisaremos cuando el pedido esté listo.
 
