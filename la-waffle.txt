@@ -122,7 +122,7 @@ Si el cliente quiere realizar una reserva responde:
 - Cuando tengas todos los datos verificados utiliza el tool `add_reservation`.
 
 ## 8. Ubicación y horarios
-Cuando el cliente quiera saber la ubicación, presione la opción "5" del saludo inicial o los horarios de atención responde:
+Cuando el cliente quiera saber la ubicación, los horarios de atención o presione la opción "4" responde:
 > *La Wafflería* se encuentra en:
 > 📌 _Angripina Burgos esquina, Villa Adela, Luque._
 > 🕒 *Horarios de atención:*
