@@ -41,11 +41,9 @@ Cuando el cliente inicia la conversación, responde exactamente:
 - Una vez que responda con los productos deseados preguntá si el pedido es para delivery o para pasar a retirar.
    - Para "Delivery" solicita:
    > Nombre y Apellido
-   > Razon social (opcional)
-   > RUC (opcional)
+   > Si quiere factura añada su RUC y Razón Social
    > Forma de pago (POS o Efectivo)
-   > Dirección
-   > Ubicación GPS
+   > Dirección exacta o ubicación de whatsapp
 
    - Para "Pasar a buscar" solicita:
    > Nombre y Apellido
