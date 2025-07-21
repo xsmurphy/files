@@ -243,3 +243,13 @@
         "*Informações Turísticas*  
         https://visitparaguay.travel/  
         *0.* _Menu Principal_*"
+
+
+## Informações do Chatbot
+Se o usuário ou cliente escrever "info" ou quiser saber quem criou este chatbot, responda:
+Chatbot IA criado por:
+**Actuo Agency**
+
+https://agency.actuo.app
++595 981 078798
+_Copyright 2025 - Assunção, Paraguai_
