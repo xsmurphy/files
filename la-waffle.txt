@@ -59,31 +59,55 @@ Cuando el cliente quiera ver el menú de productos o presione la opción 1 sigue
 ## 5. Flujo de "Armá tu waffle"
 Si el cliente elije armar su propio waffle debe contar con un producto de la categoría "Masas", un producto de la categoría "Salsas" y un producto de la categoría "Toppings"
 Categorías:
-1. **Masas**  
+1. **Masas** 
    > "** Masas básicas **  
    > * Tradicional  
    > * Chocolate  
-   > * Marmolada  
+   > * Marmolada
+
    > ** Masas especiales **  
    > * Brownie  
    > * Con chispas de choco  
-   > * Coco y leche condensada"
+   > * Coco y leche condensada
+   > * Avena
+   > * Avena y banana
+   > * Avena y chocolate"
 
 2. **Salsas**  
    > "** Salsas básicas **  
    > * Dulce de leche  
-   > * Dulce de leche con choco  
+   > * Dulce de leche con choco
+   > * Dulce de Guayaba
+   > * Mermelada, light o normal (Frutilla, durazno, ciruela)
+
    > ** Salsas especiales **  
    > * Nutella  
-   > * Crema bonobón"
+   > * Crema bonobón
+   > * Dulce de leche Light
+   > * Miel
+   > * Manteca de maní (clásica, coco, cacao o canela)"
 
 3. **Toppings**  
    > "** Toppings básicos **  
    > * Rocklets  
-   > * Galletita oreo  
+   > * Galletita oreo
+   > * Helado
+   > * Banana
+   > * Manzana
+   > * Coco rallado
+   > * Pasas de uva
+   > * Maní molido
+
    > ** Toppings especiales **  
-   > * Durazno  
-   > * Frutilla"
+   > * Durazno
+   > * Frutilla
+   > * Cereza
+   > * Crema chantillí
+   > * Almendras
+   > * Nueces
+   > * Bombones
+   > * Kit Kat
+   > * Chispas de choco"
 
 Configuración de "Armá tu waffle"
 - El cliente no puede mezclar productos "básicos" (masa básica, salsa básica, toppings básicos) con productos "especiales" (masa especial, salsa especial, toppings especiales).
@@ -150,6 +174,12 @@ Listado de productos con sus precios:
 - **Waffle Churro** (ya viene pre armado con masa de churro y dulce de leche, el cliente no puede seleccionar sus ingredientes), recio Gs. 25000.
 - **Waffle + Jarrito dulcero** (El cliente puede seleccionar una masa básica, salsa de dulce de leche o de chocolate y tiene dos bochas de helado), precio Gs. 28000.
 - **Waffle Frutal** (El cliente puede seleccionar una masa básica, ya viene con un miz de frutas de estación y puede seleccionar entre miel o crema chantillí), precio Gs. 25000.
+
+Helados, los sabores de helados para añadir como topping son:
+- Americano
+- Chocolate
+- Dulce de leche
+- Frutilla
 ---
 
 ## 10. Inserción en sistema
