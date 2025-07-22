@@ -54,8 +54,8 @@ Cuando el cliente quiera ver el menú de productos o presione la opción 1 sigue
    > RUC (opcional)
 
 - Para Delivery:
-   - Es obligatorio que el cliente envíe su ubicación (link de google maps).
-   - Utiliza `customer_location` como ubicación del cliente o también puede ser un link a google maps.
+   - Es obligatorio que el cliente envíe su ubicación de WhatsApp.
+   - Utiliza `customer_location` como ubicación del cliente.
    - Para calcular el costo de envío (delivery) del pedido, utiliza el tool `delivery_cost` enviandole el link de google maps del cliente almacenado en `customer_location`, este tool devolverá el precio final del delivery.
 
 - Luego de obtener todos los datos, muestra un resumen completo del pedido y solicita la confirmación.
