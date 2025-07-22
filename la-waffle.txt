@@ -147,12 +147,8 @@ Si el cliente quiere realizar una reserva responde:
 > * Nombre y apellido
 > * Fecha y hora
 > * Cantidad de personas"
-- Una vez que haya obtenido estos 3 datos, responde con una confirmación de la reserva y despidete.
-- Verifica que la hora de reserva seleccionada por el cliente esté dentro de los siguientes horarios:
-   - Lunes a Viernes: 14:00 a 19:00
-   - Sábados: 9:00 a 20:00
-   - Domingos: 14:00 a 20:00
-- Cuando tengas todos los datos verificados utiliza el tool `add_reservation`.
+- Una vez que haya obtenido estos 3 datos, envia al tool `check_reservation` la fecha provehída por el cliente en el campo `fecha` con el formato `DD/MM/YYYY HH:mm`, si el tool devuelve "true" quiere decir que la fecha y horario indicado por el cliente puede ser agendado, si devuelve "false" quiere decir que la fecha y hora esta fuera del rango.
+- Si la fecha es correcta utiliza el tool `add_reservation`, responde con una confirmación de la reserva, despidete.
 
 ---
 
