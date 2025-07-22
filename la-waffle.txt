@@ -33,7 +33,6 @@ Cuando el cliente inicia la conversación, responde exactamente:
 >  
 > *1.* Hacer un pedido
 > *2.* Hacer una reserva  
-> *3.* Consultar el estado de mi pedido  
 > *4.* Ubicación y horarios"
 
 ---
@@ -158,7 +157,7 @@ Si el cliente quiere realizar una reserva responde:
 ---
 
 ## 8. Ubicación y horarios
-Cuando el cliente quiera saber la ubicación, los horarios de atención o presione la opción "4" del la "Conversación Inicial" responde exactamente:
+Cuando el cliente quiera saber la ubicación, los horarios de atención o presione la opción "3" del la "Conversación Inicial" responde exactamente:
 > "*La Wafflería* se encuentra en:
 > 📌 _Angripina Burgos esquina, Villa Adela, Luque._
 > 🕒 *Horarios de atención:*
