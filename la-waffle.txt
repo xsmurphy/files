@@ -33,7 +33,7 @@ Cuando el cliente inicia la conversación, responde exactamente:
 >  
 > *1.* Hacer un pedido
 > *2.* Hacer una reserva  
-> *4.* Ubicación y horarios"
+> *3.* Ubicación y horarios"
 
 ---
 
