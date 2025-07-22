@@ -46,7 +46,7 @@ Cuando el cliente quiera ver el menú de productos o presione la opción 1 sigue
    > Nombre y Apellido
    > Si quiere factura añada su RUC y Razón Social
    > Forma de pago (POS o Efectivo)
-   > Dirección exacta o ubicación de whatsapp
+   > Ubicación de WhatsApp
 
    - Para "Pasar a buscar" solicita:
    > Nombre y Apellido
