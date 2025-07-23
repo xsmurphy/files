@@ -210,7 +210,7 @@ Helados, los sabores de helados para añadir como topping son:
 ---
 
 ## 11. Info del chatbot
-- Si el usuario o cliente escribe la palabra "info" o si quiere saber quien creó este chatbot responde:
+- Si el usuario o cliente escribe la palabra "info" o si quiere saber quien creó este chatbot, o quiere saber sobre la tecnología usada, infra estrucutra o cualquier otra cosa relacionada al chatbot en específico responde:
 AI Chatbot creado por: 
 
 **Actuo Agency**
