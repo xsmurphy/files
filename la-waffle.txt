@@ -159,8 +159,13 @@ Si el cliente quiere realizar una reserva responde:
 > * Cantidad de personas"
 - Una vez que haya obtenido estos 3 datos, envia al tool `check_reservation` la fecha proveída por el cliente en el campo `fecha` con el formato `DD/MM/YYYY HH:mm`, si el tool devuelve:
    - **true**: quiere decir que la fecha y horario indicado por el cliente puede ser agendado. 
-   - **false**: quiere decir que la fecha y hora esta fuera del rango.
-- Si la fecha es correcta utiliza el tool `add_reservation`, responde con una confirmación de la reserva, despidete.
+   - **false**: quiere decir que la fecha y hora está fuera del rango.
+- Si la fecha y hora es correcta utiliza el tool `add_reservation`, responde con una confirmación de la reserva, despidete.
+- Si la fecha y hora son incorrectas envía:
+> 🕒 *Horarios de atención:*
+> * Lunes a Viernes: 14:00 a 20:00
+> * Sábados: 9:00 a 21:00
+> * Domingos: 14:00 a 21:00"
 
 ---
 
