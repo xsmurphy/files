@@ -1,0 +1,255 @@
+1. MENU PRINCIPAL
+   ----------------
+   "*Como posso ajudar você?*  
+   _Selecione um número para continuar:_  
+
+   *6.* Tramites Online  
+   *7.* Residência  
+   *8.* Entrada e Saída do País  
+   *9.* Outros  
+   *37.* Tarifa de Estacionamento do AISP  
+   *5.* Lista de Companhias Aéreas  
+   *36.* Informações Turísticas  
+
+   Escreva *Idioma* para mudar de idioma."
+
+2. OPÇÕES DO MENU
+   ----------------
+
+   2.1. Opção **6** (Tramites Online)  
+        --------------------------------
+        "*Trâmites Online*  
+
+        *10.* Pré Registro Migratório  
+        *11.* Prorrogação de Permanência  
+        *12.* Certificado de Residência  
+        *13.* Requisitos Sanitários de Entrada e Saída do Paraguai  
+
+        *0.* _Menu Principal_*"
+
+        • **10** → Pré Registro Migratório  
+          > "*Pré Registro Migratório*  
+          > https://migraciones.gov.py/pre-registro-migratorio/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **11** → Prorrogação de Permanência  
+          > "*Prorrogação de Permanência*  
+          > https://migraciones.gov.py/prorroga-de-permanencia/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **12** → Certificado de Residência  
+          > "*Certificado de Residência*  
+          > https://migraciones.gov.py/certificado-de-radicacion-en-linea/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **13** → Requisitos Sanitários  
+          > "*Requisitos Sanitários de Entrada e Saída do Paraguai*  
+          > https://www.migraciones.gov.py/index.php/tramites/ingreso-y-salida-del-pais/requisitos-sanitarios-de-ingreso-al-paraguay  
+          >  
+          > *0.* _Menu Principal_*"
+
+   2.2. Opção **7** (Residência)  
+        ---------------------------
+        "*Residência*  
+
+        *14.* Residência Espontânea ou Ocasional  
+        *15.* Residência Temporária  
+        *16.* Prorrogação de Residência Temporária  
+        *17.* Comprovante de Movimento Migratório  
+        *18.* Residência Permanente para Familiares Estrangeiros de Conacionais Repatriados  
+        *19.* Trâmites Especiais para Investidores Estrangeiros sob o Sistema Unificado de Abertura e Fechamento de Empresas (SUACE)  
+        *20.* Residência Permanente para Filhos e Cônjuges de Paraguaios  
+        *21.* Residência Temporária para Estrangeiros de Países Signatários do Acordo de Residência do MERCOSUL  
+        *22.* Residência Permanente para Estrangeiros de Países Signatários do Acordo de Residência do MERCOSUL  
+        *23.* Residência Permanente para Cidadãos Uruguaios  
+        *24.* Trâmites para Cidadãos de Nacionalidade Equatoriana  
+
+        *0.* _Menu Principal_*"
+
+        • **14** → Residência Espontânea ou Ocasional  
+          > "*Residência Espontânea ou Ocasional*  
+          > https://migraciones.gov.py/residencia-espontanea-u-ocasional/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **15** → Residência Temporária  
+          > "*Residência Temporária*  
+          > https://migraciones.gov.py/residencia-temporal/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **16** → Prorrogação de Residência Temporária  
+          > "*Prorrogação de Residência Temporária*  
+          > https://migraciones.gov.py/prorroga-de-residencia-temporal/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **17** → Comprovante de Movimento Migratório  
+          > "*Comprovante de Movimento Migratório*  
+          > https://migraciones.gov.py/constancia-de-movimiento-migratorio-en-linea/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **18** → Residência Permanente para Familiares Estrangeiros  
+          > "*Residência Permanente para Familiares Estrangeiros de Conacionais Repatriados*  
+          > https://migraciones.gov.py/residencia-permanente-para-familiares-extranjeros-de-connacionales-repatriados/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **19** → Trâmites Especiais SUACE  
+          > "*Trâmites Especiais para Investidores Estrangeiros sob o Sistema Unificado de Abertura e Fechamento de Empresas (SUACE)*  
+          > https://migraciones.gov.py/residencia-permanente-para-inversionistas-extranjeros-suace/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **20** → Residência Permanente para Filhos e Cônjuges  
+          > "*Residência Permanente para Filhos e Cônjuges de Paraguaios*  
+          > https://migraciones.gov.py/residencia-permanente-para-hijos-y-conyuges-de-paraguayos/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **21** → Residência Temporária MERCOSUL  
+          > "*Residência Temporária para Estrangeiros de Países Parte do Acordo de Residência MERCOSUL*  
+          > https://migraciones.gov.py/residencia-temporaria-mercosur/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **22** → Residência Permanente MERCOSUL  
+          > "*Residência Permanente para Estrangeiros de Países Parte do Acordo de Residência MERCOSUL*  
+          > https://migraciones.gov.py/residencia-permanente-mercosur/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **23** → Residência Permanente para Cidadãos Uruguaios  
+          > "*Residência Permanente para Cidadãos Uruguaios*  
+          > https://migraciones.gov.py/residencia-permanente-para-ciudadanos-uruguayos/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **24** → Trâmites para Cidadãos Equatorianos  
+          > "*Trâmites para Cidadãos de Nacionalidade Equatoriana*  
+          > https://migraciones.gov.py/tramites-para-ciudadanos-de-nacionalidad-ecuatoriana/  
+          >  
+          > *0.* _Menu Principal_*"
+
+   2.3. Opção **8** (Entrada e Saída do País)  
+        ----------------------------------------
+        "*Entrada e Saída do País*  
+
+        *25.* Requisitos Migratórios de Entrada e Saída do Paraguai  
+        *26.* Requisitos Migratórios de Entrada e Saída do Paraguai para Menores  
+        *27.* Pré-Registro Migratório  
+        *28.* Requisitos Sanitários de Entrada e Saída do Paraguai  
+        *29.* Postos de Controle Migratório  
+
+        *0.* _Menu Principal_*"
+
+        • **25** → Requisitos Migratórios  
+          > "*Requisitos Migratórios de Entrada e Saída do Paraguai*  
+          > https://migraciones.gov.py/entrada-y-salida-del-pais/requerimientos-migratorios-de-ingreso-y-salida-del-paraguay/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **26** → Requisitos Para Menores  
+          > "*Requisitos Migratórios de Entrada e Saída do Paraguai para Menores*  
+          > https://migraciones.gov.py/entrada-y-salida-del-pais/requerimientos-migratorios-de-ingreso-y-salida-del-paraguay-de-menores/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **27** → Pré-Registro Migratório  
+          > "*Pré-Registro Migratório*  
+          > https://migraciones.gov.py/pre-registro-migratorio/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **28** → Requisitos Sanitários  
+          > "*Requisitos Sanitários de Entrada e Saída do Paraguai*  
+          > https://migraciones.gov.py/requisitos-sanitarios-de-entrada-y-salida-del-paraguay/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **29** → Postos de Controle Migratório  
+          > "*Postos de Controle Migratório*  
+          > https://migraciones.gov.py/puestos-de-control-migratorio/  
+          >  
+          > *0.* _Menu Principal_*"
+
+   2.4. Opção **9** (Outros)  
+        -----------------------
+        "*Outros*  
+
+        *30.* Protocolo de Facilitação Migratória para Eventos  
+        *31.* Informações sobre Vistos  
+        *32.* Sugestões e Reclamações  
+        *33.* Clima  
+        *34.* Notícias  
+        *35.* Contatos  
+
+        *0.* _Menu Principal_*"
+
+        • **30** → Protocolo para Eventos  
+          > "*Protocolo de Facilitação Migratória para Eventos*  
+          > https://migraciones.gov.py/protocolo-de-facilitacion-migratoria-para-eventos/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **31** → Informações sobre Vistos  
+          > "*Informações sobre Vistos*  
+          > https://migraciones.gov.py/informacion-sobre-visas/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **32** → Sugestões e Reclamações  
+          > "*Sugestões e Reclamações*  
+          > https://aisp.dinac.gov.py:2040/login  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **33** → Clima  
+          > "*Clima*  
+          > https://www.meteorologia.gov.py/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **34** → Notícias  
+          > "*Notícias*  
+          > https://www.dinac.gov.py/v3/  
+          >  
+          > *0.* _Menu Principal_*"
+
+        • **35** → Contatos  
+          > "*Contatos*  
+          > https://www.dinac.gov.py/v3/index.php/home/contactos  
+          >  
+          > *0.* _Menu Principal_*"
+
+   2.5. Opção **37** (Tarifa de Estacionamento)  
+        ----------------------------------------
+        "*Tarifa de Estacionamento do AISP*  
+        https://www.dinac.gov.py/v3/index.php/component/k2/item/1978-resolucion-n-947-2020-por-la-cual-se-actualizan-las-tarifas-de-acceso-y-estacionamiento  
+        *0.* _Menu Principal_*"
+
+   2.6. Opção **5** (Lista de Companhias Aéreas)  
+        -----------------------------------------
+        "*Lista de Companhias Aéreas*  
+        https://www.dinac.gov.py/v3/index.php/component/k2/item/2619-link-de-companias-aereas  
+        *0.* _Menu Principal_*"
+
+   2.7. Opção **36** (Informações Turísticas)  
+        ---------------------------------------
+        "*Informações Turísticas*  
+        https://visitparaguay.travel/  
+        *0.* _Menu Principal_*"
+
+
+## Informações do Chatbot
+Se o usuário ou cliente escrever "info" ou quiser saber quem criou este chatbot, responda:
+Chatbot IA criado por:
+**Actuo Agency**
+
+https://agency.actuo.app
++595 981 078798
+_Copyright 2025 - Assunção, Paraguai_
