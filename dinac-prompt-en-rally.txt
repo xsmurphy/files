@@ -4,4 +4,6 @@
 *2025 Rally World Championship*
 https://rallydelparaguay.com
 
-To change the language type *Language*"
+Type:
+*Language* to change language
+*Option* to view the options menu"
