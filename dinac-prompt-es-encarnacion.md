@@ -8,11 +8,12 @@
    *8.* Camping
    *9.* Entretenimiento
    *10.* Hospitales
-   *11.* Otros
 
-   Escribe *Idioma* para cambiar de idioma"
+   Escribe:
+   *Idioma* para cambiar de idioma
+   *Aeropuerto* para cambiar de aeropuerto"
 
-2. OPCIONES DEL MENÚ
+3. OPCIONES DEL MENÚ
 
    2.1. Al presionar **6** (Hoteles)
         -----------------------------------------
@@ -37,9 +38,8 @@
          http://www.delacostahotel.com.py/
 
          *0.* _Menú Principal_*"
-   
 
-   2.2. Al presionar **7** (Hoteles)
+   2.2. Al presionar **7** (Restaurantes)
         ----------------------------------
         "*Restaurantes*  
 
@@ -60,7 +60,6 @@
         
         *Primoli Restaurante*
         https://www.hoteldelatrinidad.com.py/primoli-restaurante
-
 
         *0.* _Menú Principal_*"
 
@@ -86,10 +85,7 @@
         *WRC PY Camping*
         https://uela.com.py/es/idea/28832327/wrc-camping-
 
-
         *0.* _Menú Principal_*"
-
-        
 
    2.4. Al presionar **9** (Entretenimiento)
         -----------------------------
