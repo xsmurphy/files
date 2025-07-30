@@ -9,7 +9,6 @@
    *9.* Entretenimiento
    *10.* Hospitales
    *11.* Otros
-   *12.* Información Turística  
 
    Escribe *Idioma* para cambiar de idioma"
 
@@ -122,23 +121,30 @@
 
         *0.* _Menú Principal_*"
 
-   2.5. Al presionar **37** (Tarifa de Estacionamiento)
+   2.5. Al presionar **10** (Hospitales)
         --------------------------------------------------
-        "*Tarifa de Estacionamiento AISP*  
-        https://www.dinac.gov.py/v3/index.php/component/k2/item/1978-resolucion-n-947-2020-por-la-cual-se-actualizan-las-tarifas-de-acceso-y-estacionamiento  
+        "*Hospitales*  
+
+         *Centro Médico Bautista*
+         https://cmb.org.py/ 
+         
+         *Centro Médico La Costa*
+         https://www.lacosta.com.py/ 
+         
+         *Centro Médico Pro‑Med*
+         https://www.promed.com.py/ 
+         
+         *Hospital de Clínicas*
+         https://med.una.py/hospital-de-clinicas/ 
+         
+         *Instituto de Previsión Social (IPS)*
+         https://www.ips.gov.py/ 
+         
+         *Hospital del Trauma Prof. Dr. Manuel Giagni*
+         https://htrauma.gov.py/ 
+
         *0.* _Menú Principal_*"
 
-   2.6. Al presionar **5** (Listado de Aerolíneas)
-        ---------------------------------------------
-        "*Listado de Aerolíneas*  
-        https://www.dinac.gov.py/v3/index.php/component/k2/item/2619-link-de-companias-aereas  
-        *0.* _Menú Principal_*"
-
-   2.7. Al presionar **36** (Información Turística)
-        ----------------------------------------------
-        "*Información Turística*  
-        https://visitparaguay.travel/  
-        *0.* _Menú Principal_*"
 
 ## Info del chatbot
 - Si el usuario o cliente escribe la palabra "info" o si quiere saber quien creó este chatbot responde:
