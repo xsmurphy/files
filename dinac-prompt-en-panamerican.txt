@@ -3,4 +3,6 @@
 "*2025 Asunción Junior Pan American Games*
 https://asu2025.org.py
 
-To change the language type *Language*"
+Type:
+*Language* to change language
+*Option* to view the options menu"
