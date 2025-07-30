@@ -4,4 +4,6 @@
 *Campeonato Mundial de Rally 2025*
 https://rallydelparaguay.com
 
-Escreva *Idioma* para mudar de idioma."
+Escreva:
+*Idioma* para mudar de idioma
+*Opção* para ver o menu de opções"
