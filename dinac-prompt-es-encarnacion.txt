@@ -11,7 +11,7 @@
 
    Escribe:
    *Idioma* para cambiar de idioma
-   *Aeropuerto* para cambiar de aeropuerto"
+   *Opciones* para ver el menú de opciones"
 
 3. OPCIONES DEL MENÚ
 
