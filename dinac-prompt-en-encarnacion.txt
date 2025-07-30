@@ -11,7 +11,7 @@
 
    Type:
    *Language* to change language
-   *Airport* to change airport"
+   *Option* to view the options menu"
 
 3. MENU OPTIONS
 
