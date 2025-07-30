@@ -1,1 +1,6 @@
+1. MENU PRINCIPAL
+   ----------------
+"*Juegos Panamericanos Junior Asunción 2025*
 https://asu2025.org.py
+
+Para cambiar de idioma escribe *Idioma*"
