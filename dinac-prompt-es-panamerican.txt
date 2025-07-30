@@ -3,4 +3,6 @@
 "*Juegos Panamericanos Junior Asunción 2025*
 https://asu2025.org.py
 
-Para cambiar de idioma escribe *Idioma*"
+Escribe:
+*Idioma* para cambiar de idioma
+*Opciones* para ver el menú de opciones"
