@@ -4,5 +4,7 @@
 *Jogos Pan-Americanos Júnior Assunção 2025*
 https://asu2025.org.py
 
-Escreva *Idioma* para mudar de idioma."
+Escreva:
+*Idioma* para mudar de idioma
+*Opção* para ver o menu de opções"
 
