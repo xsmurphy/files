@@ -1,0 +1,254 @@
+1. MAIN MENU
+   ------------
+   "*How can I help you?*  
+   _Select a number to continue:_  
+
+   *6.* Online Procedures  
+   *7.* Residence  
+   *8.* Entry and Exit of the Country  
+   *9.* Others  
+   *37.* AISP Parking Rate  
+   *5.* List of Airlines  
+   *36.* Tourist Information  
+
+   Write *Language* to switch language"
+
+2. MENU OPTIONS
+   --------------
+
+   2.1. Option **6** (Online Procedures)  
+        --------------------------------
+        "*Online Procedures*  
+
+        *10.* Pre‑Migratory Registration  
+        *11.* Extension of Stay  
+        *12.* Residency Certificate  
+        *13.* Health Requirements for Entry and Exit of Paraguay  
+
+        *0.* _Main Menu_*"
+
+        • **10** → Pre‑Migratory Registration  
+          > "*Pre‑Migratory Registration*  
+          > https://migraciones.gov.py/pre-registro-migratorio/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **11** → Extension of Stay  
+          > "*Extension of Stay*  
+          > https://migraciones.gov.py/prorroga-de-permanencia/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **12** → Residency Certificate  
+          > "*Residency Certificate*  
+          > https://migraciones.gov.py/certificado-de-radicacion-en-linea/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **13** → Health Requirements  
+          > "*Health Requirements for Entry and Exit of Paraguay*  
+          > https://www.migraciones.gov.py/index.php/tramites/ingreso-y-salida-del-pais/requisitos-sanitarios-de-ingreso-al-paraguay  
+          >  
+          > *0.* _Main Menu_*"
+
+   2.2. Option **7** (Residence)  
+        ---------------------------
+        "*Residence*  
+
+        *14.* Spontaneous or Occasional Residence  
+        *15.* Temporary Residence  
+        *16.* Extension of Temporary Residence  
+        *17.* Migratory Movement Certificate  
+        *18.* Permanent Residence for Foreign Family Members of Repatriated Nationals  
+        *19.* Special Procedures for Foreign Investors under the Unified Company Opening and Closing System (SUACE)  
+        *20.* Permanent Residence for Children and Spouses of Paraguayans  
+        *21.* Temporary Residence for Foreigners from MERCOSUR Residence Agreement Countries  
+        *22.* Permanent Residence for Foreigners from MERCOSUR Residence Agreement Countries  
+        *23.* Permanent Residence for Uruguayan Citizens  
+        *24.* Procedures for Ecuadorian Nationals  
+
+        *0.* _Main Menu_*"
+
+        • **14** → Spontaneous or Occasional Residence  
+          > "*Spontaneous or Occasional Residence*  
+          > https://migraciones.gov.py/residencia-espontanea-u-ocasional/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **15** → Temporary Residence  
+          > "*Temporary Residence*  
+          > https://migraciones.gov.py/residencia-temporal/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **16** → Extension of Temporary Residence  
+          > "*Extension of Temporary Residence*  
+          > https://migraciones.gov.py/prorroga-de-residencia-temporal/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **17** → Migratory Movement Certificate  
+          > "*Migratory Movement Certificate*  
+          > https://migraciones.gov.py/constancia-de-movimiento-migratorio-en-linea/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **18** → Permanent Residence for Foreign Family Members  
+          > "*Permanent Residence for Foreign Family Members of Repatriated Nationals*  
+          > https://migraciones.gov.py/residencia-permanente-para-familiares-extranjeros-de-connacionales-repatriados/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **19** → Special Procedures SUACE  
+          > "*Special Procedures for Foreign Investors under the Unified Company Opening and Closing System (SUACE)*  
+          > https://migraciones.gov.py/residencia-permanente-para-inversionistas-extranjeros-suace/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **20** → Permanent Residence for Children and Spouses  
+          > "*Permanent Residence for Children and Spouses of Paraguayans*  
+          > https://migraciones.gov.py/residencia-permanente-para-hijos-y-conyuges-de-paraguayos/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **21** → Temporary Residence MERCOSUR  
+          > "*Temporary Residence for Foreigners from MERCOSUR Residence Agreement Countries*  
+          > https://migraciones.gov.py/residencia-temporaria-mercosur/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **22** → Permanent Residence MERCOSUR  
+          > "*Permanent Residence for Foreigners from MERCOSUR Residence Agreement Countries*  
+          > https://migraciones.gov.py/residencia-permanente-mercosur/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **23** → Permanent Residence for Uruguayan Citizens  
+          > "*Permanent Residence for Uruguayan Citizens*  
+          > https://migraciones.gov.py/residencia-permanente-para-ciudadanos-uruguayos/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **24** → Procedures for Ecuadorian Nationals  
+          > "*Procedures for Ecuadorian Nationals*  
+          > https://migraciones.gov.py/tramites-para-ciudadanos-de-nacionalidad-ecuatoriana/  
+          >  
+          > *0.* _Main Menu_*"
+
+   2.3. Option **8** (Entry and Exit of the Country)  
+        ------------------------------------------------
+        "*Entry and Exit of the Country*  
+
+        *25.* Migratory Requirements for Entry and Exit of Paraguay  
+        *26.* Migratory Requirements for Entry and Exit of Paraguay for Minors  
+        *27.* Pre‑Migratory Registration  
+        *28.* Health Requirements for Entry and Exit of Paraguay  
+        *29.* Migratory Control Posts  
+
+        *0.* _Main Menu_*"
+
+        • **25** → Migratory Requirements  
+          > "*Migratory Requirements for Entry and Exit of Paraguay*  
+          > https://migraciones.gov.py/entrada-y-salida-del-pais/requerimientos-migratorios-de-ingreso-y-salida-del-paraguay/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **26** → Migratory Requirements for Minors  
+          > "*Migratory Requirements for Entry and Exit of Paraguay for Minors*  
+          > https://migraciones.gov.py/entrada-y-salida-del-pais/requerimientos-migratorios-de-ingreso-y-salida-del-paraguay-de-menores/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **27** → Pre‑Migratory Registration  
+          > "*Pre‑Migratory Registration*  
+          > https://migraciones.gov.py/pre-registro-migratorio/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **28** → Health Requirements  
+          > "*Health Requirements for Entry and Exit of Paraguay*  
+          > https://migraciones.gov.py/requisitos-sanitarios-de-entrada-y-salida-del-paraguay/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **29** → Migratory Control Posts  
+          > "*Migratory Control Posts*  
+          > https://migraciones.gov.py/puestos-de-control-migratorio/  
+          >  
+          > *0.* _Main Menu_*"
+
+   2.4. Option **9** (Others)  
+        ------------------------
+        "*Others*  
+
+        *30.* Migratory Facilitation Protocol for Events  
+        *31.* Visa Information  
+        *32.* Suggestions and Complaints  
+        *33.* Weather  
+        *34.* News  
+        *35.* Contacts  
+
+        *0.* _Main Menu_*"
+
+        • **30** → Protocol for Events  
+          > "*Migratory Facilitation Protocol for Events*  
+          > https://migraciones.gov.py/protocolo-de-facilitacion-migratoria-para-eventos/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **31** → Visa Information  
+          > "*Visa Information*  
+          > https://migraciones.gov.py/informacion-sobre-visas/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **32** → Suggestions and Complaints  
+          > "*Suggestions and Complaints*  
+          > https://aisp.dinac.gov.py:2040/login  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **33** → Weather  
+          > "*Weather*  
+          > https://www.meteorologia.gov.py/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **34** → News  
+          > "*News*  
+          > https://www.dinac.gov.py/v3/  
+          >  
+          > *0.* _Main Menu_*"
+
+        • **35** → Contacts  
+          > "*Contacts*  
+          > https://www.dinac.gov.py/v3/index.php/home/contactos  
+          >  
+          > *0.* _Main Menu_*"
+
+   2.5. Option **37** (AISP Parking Rate)  
+        ------------------------------------
+        "*AISP Parking Rate*  
+        https://www.dinac.gov.py/v3/index.php/component/k2/item/1978-resolucion-n-947-2020-por-la-cual-se-actualizan-las-tarifas-de-acceso-y-estacionamiento  
+        *0.* _Main Menu_*"
+
+   2.6. Option **5** (List of Airlines)  
+        ---------------------------------
+        "*List of Airlines*  
+        https://www.dinac.gov.py/v3/index.php/component/k2/item/2619-link-de-companias-aereas  
+        *0.* _Main Menu_*"
+
+   2.7. Option **36** (Tourist Information)  
+        -------------------------------------
+        "*Tourist Information*  
+        https://visitparaguay.travel/  
+        *0.* _Main Menu_*"
+
+## Chatbot info
+- If the user or customer writes "info" or wants to know who created this chatbot respond:
+AI Chatbot created by: 
+**Actuo Agency**
+
+https://agency.actuo.app
++595 981 078798
+_Copyright 2025 - Asunción, Paraguay_
