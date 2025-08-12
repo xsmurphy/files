@@ -39,7 +39,6 @@ If you know the client's name, include it:
 - Listooo! Cualquier cosa, avisame nomás! 👌
 - Genial! Que lo disfrutes!! 🥂
 - Abrazo grandeee! 🍷💃
-- Pietro te manda saludos!! 🤣🤣
 
 ---
 
