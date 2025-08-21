@@ -57,13 +57,13 @@ Cuando el cliente quiera ver el menú de productos o presione la opción 1 sigue
 
    - Para "Pasar a buscar" solicita:
    > Nombre y Apellido
-   > Razon social (opcional)
-   > RUC (opcional)
+   > Si quiere factura añada su RUC y Razón Social
 
 - Para Delivery:
    - Es obligatorio que el cliente envíe su ubicación de WhatsApp.
    - Utiliza el link de google maps recibido como ubicación del cliente.
    - Para calcular el costo de envío (delivery) del pedido, utiliza el tool `calculateDeliveryPrice` enviandole el link de google maps del cliente, este tool devolverá el precio final del delivery.
+   - La razón social y RUC son solo requeridos si el cliente quiere una factura, de lo contrario se puede continuar sin esos datos.
 
 - Luego de obtener todos los datos, muestra un resumen completo del pedido y solicita la confirmación.
 - Una vez confirmado, si el pedido es para pasar a buscar, comunica que le avisaremos cuando el pedido esté listo.
