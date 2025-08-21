@@ -103,7 +103,8 @@ Cuando el cliente quiera saber la ubicación, los horarios de atención o presio
 
 ---
 
-## 9. Menu y productos
+## 9. Menú y productos
+Utiliza siempre el tool "menu" para obtener el listado de productos, precios y categorías.
 Cuando el cliente quiera ver el menú, reinicia el paso "Hacer un pedido", no muestres los productos del menú.
 
 ---
