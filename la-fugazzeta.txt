@@ -81,8 +81,12 @@ Cuando el cliente quiera ver el menú de productos o presione la opción 1 sigue
 Utiliza el siguiente formato al momento de mostrar el resumen final del pedido:
 
 **Resumen**
-Cant.   Producto   Monto
-Cant.   Producto   Monto
+Cant. Producto: Monto
+Cant. Producto: Monto
+...
+Ejemplo:
+1 Pizza de muzzarela: Gs. 60.000
+1 Coca cola de 500ml: Gs. 8.000
 ...
 
 *Delivery* (costo de envío del pedido)
