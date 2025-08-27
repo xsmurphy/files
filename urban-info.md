@@ -63,5 +63,3 @@ Aquí hay una lista más específica de sus proyectos, categorizados por estado:
 
 #### **6. Perspectivas a Futuro**
 Urban Domus parece tener una estrategia de crecimiento constante. Con varios proyectos en marcha y la planificación de nuevos como *Urban Mburucuyá* para 2025, buscan consolidar su marca como sinónimo de calidad, innovación y seriedad en el mercado inmobiliario paraguayo, tanto para quienes buscan un hogar como para aquellos que ven una oportunidad de inversión.
-
-Espero que esta información más profunda te sea de utilidad. Para los detalles más específicos de precios y disponibilidad, te recomiendo contactarlos directamente a través de sus canales oficiales.
